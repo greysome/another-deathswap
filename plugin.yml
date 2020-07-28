@@ -1,0 +1,11 @@
+name: DeathSwapPlugin
+main: com.wayyan.deathswap.DeathSwapPlugin
+version: 1.0
+api-version: 1.13
+commands:
+   dsstart:
+      description: Start
+      usage: /dsstart
+   dsstop:
+      description: Stop
+      usage: /dsstop
